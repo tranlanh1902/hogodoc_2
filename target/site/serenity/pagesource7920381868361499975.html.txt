@@ -1,0 +1,420 @@
+<html style=""><head><script id="MyLiveChatScriptTagID" src="https://c1.mylivechat.com/livechat2/livechat2.aspx?apimode=sync&amp;HCCID=37991471&amp;CCCustomerId=eb2173a2-cef4-b6bc-074d-ee643192d908&amp;Type=VISIT&amp;Url=https%3A%2F%2Fwww.hogodoc.com%2F&amp;ContextData=3%3A21%7C0%7C&amp;ScreenSize=1440,900&amp;PageTitle=PDF%2C%20Word%2C%20Excel%2C%20PowerPoint%20IRM%20%2F%20DRM%20Protection%20..&amp;uats=21&amp;culture=en-US&amp;mlcv=3016&amp;template=5"></script><script src="https://c1.mylivechat.com/livechat2/script/livechatinit2.js"></script><script src="https://c1.mylivechat.com/livechat2/resources2.aspx?HCCID=37991471&amp;culture=en-US&amp;mlcv=3016&amp;template=5"></script><link rel="stylesheet" href="https://c1.mylivechat.com/livechat2/chatinline.css?&amp;culture=en-US&amp;mlcv=3016&amp;template=5"><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700">
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WRGRTK"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-41538971-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-41538971-1');
+</script>
+
+<meta charset="utf-8">
+<meta name="google-site-verification" content="FFujTuQKKw31mlSjJofo0kvSxZihFp045WDQOtodQPA">
+<title>PDF, Word, Excel, PowerPoint IRM / DRM Protection | Information Rights Management | Document Security and Tracking | Secure Document Sharing - HoGo</title>
+<meta name="description" content="Protect and share PDF, Word, and Excel documents securely with HoGo. Protect your confidential documents, intellectual property, and creative works. Create your free account now!"> 
+<meta name="keywords" content="secure file sharing, pdf security, protect pdf, pdf protection, protect word, protect excel, protect document, document security, share document securely, secure document sharing, drm, ebook protect, ebook drm, protect confidential document, intellectual property protect"> 
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<!-- Adding "maximum-scale=1" fixes the Mobile Safari auto-zoom bug: http://filamentgroup.com/examples/iosScaleBug/ -->
+<link rel="apple-touch-icon" href="/images/icons/apple-touch-icon.png">
+<link rel="apple-touch-icon-precomposed" href="/images/icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="/images/icons/favicon.ico">
+
+<!-- <link rel='stylesheet' href='http://www.hogodoc.com/index.php/styles/reset-css' /> -->
+<link rel="stylesheet" href="/styles/reset-css">
+
+<!-- <link rel='stylesheet' href='http://www.hogodoc.com/index.php/styles/default-css' /> -->
+<link rel="stylesheet" href="/styles/default-css">
+
+<link rel="stylesheet" href="/styles/print-css" type="text/css" media="print">
+<!--[if IE 7]>
+<link rel="stylesheet" href='http://www.hogodoc.com/index.php/styles/ie7-css' />
+<![endif]-->
+<!--[if lt IE 9]>
+<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+<script src="/js/css3-mediaqueries.js"></script>
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+<script type="text/javascript" src="/embeds/change_lang"></script>
+
+<!--Add the following script at the bottom of the web page (immediately before the </body> tag)-->
+<script type="text/javascript" async="async" defer="defer" data-cfasync="false" src="https://mylivechat.com/chatinline.aspx?hccid=37991471"></script>
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+	$(".btn-slide").click(function(){
+		$("#panel").slideToggle("fast");
+		$(this).toggleClass("active"); return false;
+	});
+	
+	 
+});
+</script>
+
+<!-- Change site language -->
+<script type="text/javascript">
+$(document).ready(function(){
+ if(location.pathname == "/") {HoGoLang.redirectToJapaneseSite();}
+});
+</script>
+
+<!--------------------------------------ADD ANALYTICS HERE----------------------------------------->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42917944-1', 'hogodoc.com');
+  ga('send', 'pageview');
+
+</script>
+<link rel="stylesheet" href="/styles/owl.carousel.css">
+<link rel="stylesheet" href="/styles/owl.theme.css">
+<script type="text/javascript" src="/js/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/js/owl.carousel.js"></script>
+<script>
+    $(document).ready(function() {
+      $("#owl-demo").owlCarousel({
+
+      navigation : false,
+      slideSpeed : 500,
+      paginationSpeed : 500,
+      singleItem : true,
+	  autoPlay : 3000,
+
+      // "singleItem:true" is a shortcut for:
+      // items : 1, 
+      // itemsDesktop : false,
+      // itemsDesktopSmall : false,
+      // itemsTablet: false,
+      // itemsMobile : false
+
+      });
+    });
+    </script>
+<style>
+.mylivechat_poweredby
+{
+  display: none!important;
+}
+</style></head>
+<body lang="en" id="homePage"><div class="mylivechat_inline mylivechat_template5 mylivechat_template_float_right mylivechat_template_float_bottom" style="font-family: Poppins; right: 16px; bottom: 0px;"><div class="mylivechat_collapsed" style="background-color: rgb(2, 117, 216); border: 0px solid rgb(32, 112, 176); color: white; min-width: 180px; user-select: none; transform: translate(0px, 2.77329e-15px);"><div class="mylivechat_collapsed_text" style="font-size: 15px; color: white; text-indent: 9px;">Leave a message</div><div class="mylivechat_sprite" title="Maximize" image="up" sprite="up" style="background-repeat: no-repeat; max-width: 32px; background-position: -4px -148px;"><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" x="0px" y="0px" viewBox="0 0 32 32" style="enable-background:new 0 0 32 32;" xml:space="preserve" image="up"><polygon points="16,10 26,20 24.6,21.4 16,12.8 7.4,21.4 6,20 "></polygon></svg></div></div><div class="mylivechat_expanded_outer" style="display: none; user-select: none;"><div class="mylivechat_expanded" style="min-height: 470px;"><div class="mylivechat_expanded_title" style="background-color: rgb(2, 117, 216); border: 0px solid rgb(32, 112, 176); color: white;"><div class="mylivechat_expanded_text" style="font-size: 15px; color: white; text-indent: 9px;"></div><div class="mylivechat_sprite" title="Minimize" image="down" sprite="down" style="cursor: pointer; background-repeat: no-repeat; max-width: 32px; background-position: -4px -52px;"><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 32 32" image="down"><path d="M11,22c-0.6,0-1-0.4-1-1s0.4-1,1-1h15c0.6,0,1,0.4,1,1s-0.4,1-1,1H11z"></path></svg></div><div class="mylivechat_sprite" title="End Chat" image="exit" sprite="exit" style="cursor: pointer; display: none; background-repeat: no-repeat; max-width: 32px; background-position: -4px -76px;"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" fill="currentColor" image="exit"><path fill-rule="evenodd" d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z"></path></svg></div><div class="mylivechat_sprite" title="Pop-out" image="open" sprite="open" style="cursor: pointer; display: none; background-repeat: no-repeat; max-width: 32px; background-position: -4px -4px;"><svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 32 32" image="open"><polygon points="10 6 10 8 22.59 8 6 24.59 7.41 26 24 9.41 24 22 26 22 26 6 10 6"></polygon></svg></div></div><div class="mylivechat_container" style="border: 0px solid transparent; box-sizing: border-box; display: none;"></div></div></div></div>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WRGRTK"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WRGRTK');</script>
+<!-- End Google Tag Manager -->
+
+
+<div id="sliderMenu">
+<div id="panel">
+	<nav id="mobileNav">
+	<ul>
+    	<li id="tryLink"><a href="https://www.hogodoc.com/HoGo/signup">Try HoGo for FREE!</a></li>
+    	<li id="loginLink"><a href="https://www.hogodoc.com/HoGo/login">Login</a></li>
+    	<li id="howLink"><a href="/how-it-works">How It Works</a>
+		<ul>
+		
+
+		<li><a href="/how-it-works/overview" id="link1">How It Works</a></li>
+
+		
+
+		<li><a href="/how-it-works/features" id="link2">Features</a></li>
+
+		
+
+		<li><a href="/how-it-works/quicktour" id="link3">How to Use HoGo</a></li>
+
+		
+
+		<li><a href="/how-it-works/using-hogo-with-box" id="link211">Using HoGo With Box</a></li>
+
+		
+		<div class="clear"></div>
+		</ul>
+	</li>
+        <li id="pricingLink"><a href="/pricing">Pricing</a>
+
+		<ul>
+		
+
+		<li><a href="/pricing/price-list" id="link8">Price List</a></li>
+
+		
+		<div class="clear"></div>
+		</ul>
+
+	</li>
+        <li id="downloadsLink"><a href="/downloads">Downloads</a></li>
+        <li id="supportLink"><a href="/support">Support</a>
+
+		<ul>
+		
+
+		<li><a href="/support/support" id="link14">Support</a></li>
+
+		
+
+		<li><a href="/support/faqs" id="link16">FAQs</a></li>
+
+		
+
+		<li><a href="/support/getting-started" id="link17">Getting Started</a></li>
+
+		
+
+		<li><a href="/support/tips-tricks" id="link18">Tips &amp; Tricks</a></li>
+
+		
+
+		<li><a href="/support/viewing-hogo-documents" id="link203">Viewing HoGo Documents</a></li>
+
+		
+
+		<li><a href="/support/uninstalling-hogo-viewer" id="link205">Uninstalling HoGo Viewer</a></li>
+
+		
+		<div class="clear"></div>
+		</ul>
+
+	</li>
+        <li id="aboutLink"><a href="/about-hogo">About Us</a>
+		<ul>
+		
+
+		<li><a href="/about-hogo/about-hogo-overview" id="link11">About HoGo</a></li>
+
+		
+
+		<li><a href="/about-hogo/our-company" id="link12">Our Company</a></li>
+
+		
+		<li><a href="/news" id="newsLink">Latest News</a></li>
+		<div class="clear"></div>
+		</ul>
+
+	</li>
+        <li id="blogLink"><a href="/blog">Blog</a></li>
+        <li id="contactLink"><a href="/contact-us">Contact</a></li>
+    </ul>
+    </nav>
+</div><!--/#panel-->
+<p class="slide"><a href="#" class="btn-slide"></a></p>
+</div><!--/#sliderMenu-->
+<div class="whiteWrap">
+<header>
+
+<nav id="secondaryNav">
+<div class="container">
+	<ul>
+    	<li><a href="https://www.hogodoc.com/HoGo/signup" id="tryLink">Try HoGo for FREE!</a></li>
+    	<li><a href="https://www.hogodoc.com/HoGo/login" id="loginLink">Login</a></li>
+        <li><a href="javascript:HoGoLang.changeSiteLang('ja');"><img src="/images/icons/jp.png"></a><a href="javascript:HoGoLang.changeSiteLang('en');"><img src="/images/icons/us.png"></a></li>
+    </ul>
+    <div class="clear"></div>
+    </div>
+</nav>
+<div class="container">
+<p id="logo"><a href="/">HoGo — Document Protection Simplified</a></p>
+<nav id="primaryNav">
+	<ul>
+    	<li class="first"><a href="/how-it-works/" id="howLink">How It Works</a></li>
+        <li><a href="/pricing" id="pricingLink">Pricing</a></li>
+        <li><a href="/downloads" id="downloadsLink">Downloads</a></li>
+        <li><a href="/support" id="supportLink">Support</a></li>
+        <li><a href="/about-hogo" id="aboutLink">About Us</a></li>
+        <li><a href="/blog" id="blogLink">Blog</a></li>
+        <li><a href="/contact-us" id="contactLink">Contact</a></li>
+    </ul>
+        <div class="clear"></div>
+    </nav>
+    </div><!--/.container-->
+    <div class="clear"></div>
+</header>
+<div class="container">
+
+
+<!--------------------UNIQUE-------------------->
+
+	<section id="billboard">
+    <div id="billboardText">
+    <div id="billboardFlair"></div>
+    <h3>PROTEcT | SHARE | TRAcK</h3>
+    <div id="textToggle">
+    <p id="openingLine">IRM for PDF, Word, Excel, and PowerPoint<br><br>Control and track access to your documents.<br><br>Protect your confidential information and intellectual property from leaks and theft </p>
+	<p id="closingLine">Sign up and send up to 5 documents free!</p></div><!--/#textToggle-->
+    <p class="button"><a href="https://www.hogodoc.com/HoGo/signup">Free Trial</a></p>
+    </div>
+	<div id="owl-demo" class="owl-carousel owl-theme" style="opacity: 1; display: block;">
+ 
+  		<div class="owl-wrapper-outer"><div class="owl-wrapper" style="width: 7140px; left: 0px; display: block; transition: all 500ms ease 0s; transform: translate3d(-714px, 0px, 0px);"><div class="owl-item" style="width: 714px;"><div class="item"><img src="/images/slide_img1_en.jpg"></div></div><div class="owl-item" style="width: 714px;"><div class="item"><img src="/images/slide_img2_en.jpg"></div></div><div class="owl-item" style="width: 714px;"><div class="item"><img src="/images/slide_img3_en.jpg"></div></div><div class="owl-item" style="width: 714px;"><div class="item"><img src="/images/slide_img4_en.jpg"></div></div><div class="owl-item" style="width: 714px;"><div class="item"><img src="/images/slide_img5_en.jpg"></div></div></div></div>
+  		
+  		
+ 		
+  		
+ 
+	<div class="owl-controls clickable"><div class="owl-pagination"><div class="owl-page"><span class=""></span></div><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
+
+    <div id="billboardBase"><img src="images/billboard-base-bg.jpg"></div>
+	<div id="shadowLeft"></div>
+    <div id="shadowRight"></div>
+
+    <div class="clear"></div>
+    </section><!--/#billboard-->
+    
+    
+
+	<section id="main" class="moveOver">
+
+<h2><strong>What is HoGo?</strong></h2>
+<!--video temporarily disabled-->
+<!--<div class="embed">-->
+<!--<iframe width="100%" height="315" src="//www.youtube.com/embed/lM4nXrI14as?rel=0" frameborder="0" allowfullscreen></iframe>-->
+<!--</div>-->
+<p>
+	HoGo is a secure document sharing and distribution service that uses DRM/IRM (information rights management) technology to protect your PDF, Word, Excel, and PowerPoint files from being re-shared and used without your permission. Unlike other file sharing sites, HoGo protects your files even after they have been downloaded; blocking screen captures, and even allowing you to revoke access to files remotely.</p>
+<p>
+	<br>
+	Protect, distribute, and manage important documents such as confidential business documents, private personal information, legal documents, and copyrighted works such as e-books. With HoGo, you control who can view your documents, whether they can be printed / edited or not, expiry dates and more. Documents sent with HoGo cannot be re-shared, forwarded, or otherwise leaked even after your recipient has downloaded them, keeping them secure and out of the wrong hands. You can also track and see who has opened your files, when, how many times, and where.</p>
+<ul class="iconList">
+	<li>
+		<a href="/how-it-works" id="learnLink">Learn How to Protect and Share Documents</a></li>
+	<li>
+		<a href="http://www.hogodoc.com/how-it-works/quicktour">See the Quick Tour</a></li>
+	<li>
+		<a href="http://www.hogodoc.com/pricing">Pricing</a></li>
+	<li>
+		<a href="http://www.hogodoc.com/support/faqs">See our Frequently Asked Questions</a></li>
+	<li>
+		<a href="http://www.hogodoc.com/support/uninstalling-hogo-viewer">Uninstall Instructions</a></li>
+	<li>
+		<a href="http://www.hogodoc.com/contact-us">Contact Us for More Information</a></li>
+</ul>
+<p>
+	HoGo gives you the most flexibility on how you share your documents, and how they are viewed by your recipients. Create a web-link for viewing in a browser, send eBooks directly to the free HoGo Viewer on PC, Android, or iOS, download and view a PDF file in standard Adobe Reader on PC and Mac,&nbsp; edit Microsoft Word, Excel, and PowerPoint files using Microsoft Office; whatever your application or platform, we have you covered.</p>
+<p>
+	Best of all, HoGo is easy and affordable to use. No software to install, no long-term contracts or monthly fees. <a href="https://www.hogodoc.com/HoGo/signup">Get started now, </a>with a free trial.</p>
+
+	
+<div class="clear"></div>
+    </section>
+
+	<section id="blogTeasers">
+	<h2><strong>Latest News</strong></h2>
+	
+      		<article>
+      			<h3><a href="/news/post/resolved-e-mail-notification-and-pin-problem">Resolved: E-mail Notification and PIN Problem</a></h3>
+      			<p class="postDate">added: 09.02.2020</p>
+			<p> <a href="/news/post/resolved-e-mail-notification-and-pin-problem">Continue...</a></p>
+      		</article>
+	 
+	<p><a href="/news" class="powerLink">All News Articles</a></p>
+	</section>
+
+	<section id="blogTeasers">
+	<h2><strong>Our Blog</strong></h2>
+	
+      		<article>
+      			<h3><a href="/blog/post/how-to-use-document-tracking-to-maximize-your-marketing">How to Use Document Tracking to Maximize Your Marketing</a></h3>
+      			<p class="postDate">added: 03.09.2015</p>
+			<p>The new PowerPoint presentation is perfect, and the final draft of the white paper you commissioned presents a compelling argument for your product. You email the presentation to your clients and send them a link to your website to download the white paper. Now what? Do you know how many of your customers downloaded the documents? More important, do you know how many actually opened them? <a href="/blog/post/how-to-use-document-tracking-to-maximize-your-marketing">Continue...</a></p>
+      		</article>
+	 
+	<p><a href="/blog" class="powerLink">All Blog Articles</a></p>
+	</section>
+
+    <div class="clear"></div>
+
+
+<!--------------end---UNIQUE-------------------->
+
+</div><!--/.container-->
+<div id="stripedBorder"></div>
+</div><!--/.whiteWrap-->
+<footer>
+<div class="container">
+<nav id="footerNav">
+<h3>Explore Our Site</h3>
+	<ul>
+  		<li><a href="/">Home</a></li>
+  		<li><a href="https://www.hogodoc.com/HoGo/login">Login</a></li>
+  		<li><a href="/support">Support</a>
+			<ul>
+			
+				<li><a href="/support/faqs" id="link16">FAQs</a></li>
+			
+				<li><a href="/support/getting-started" id="link17">Getting Started</a></li>
+			
+				<li><a href="/support/tips-tricks" id="link18">Tips &amp; Tricks</a></li>
+			
+				<li><a href="/support/viewing-hogo-documents" id="link203">Viewing HoGo Documents</a></li>
+			
+				<li><a href="/support/uninstalling-hogo-viewer" id="link205">Uninstalling HoGo Viewer</a></li>
+			
+			</ul>
+  		</li>
+  		<li><a href="/downloads">Downloads</a></li>
+	</ul>
+    
+    	<ul>
+  		<li><a href="/how-it-works">How It Works</a>
+    			<ul>
+			
+				<li><a href="/how-it-works/features" id="link2">Features</a></li>
+			
+				<li><a href="/how-it-works/quicktour" id="link3">How to Use HoGo</a></li>
+			
+				<li><a href="/how-it-works/using-hogo-with-box" id="link211">Using HoGo With Box</a></li>
+			
+    			</ul>
+  		</li>
+  		<li><a href="/pricing">Pricing</a>
+			<ul>
+			
+				<li><a href="/pricing/price-list" id="link8">Price List</a></li>
+			
+	<li><a href="https://www.hogodoc.com/HoGo/signup">Create a FREE Account</a></li>
+			</ul>
+  		</li>
+  	</ul>
+    
+    	<ul>
+  		<li><a href="/about-hogo">About HoGo</a>
+			<ul>
+			
+				<li><a href="/about-hogo/our-company" id="link12">Our Company</a></li>
+			
+				<li><a href="/news" id="newsLink">Latest News</a></li>
+			</ul>
+  		</li>
+  		<li><a href="/blog">Our Blog</a></li>
+  		<li><a href="/contact-us">Contact Us</a></li>
+  		<li><a href="/sitemap">Sitemap</a></li>
+  		<li><a href="/about-hogo/terms-and-conditions">Terms &amp; Conditions</a></li>
+	</ul>
+    <div class="clear"></div>
+</nav>
+<section id="socialLinks">
+<h3><span>HoGo</span> Social</h3>
+<ul>
+<li><a href="https://www.facebook.com/pages/Hogo-Inc/184685881701428?fref=ts" id="fbLink">Facebook</a></li>
+<li><a href="https://twitter.com/HoGoInc" id="twitterLink">Twitter</a></li>
+<li><a href="http://www.linkedin.com/company/hogo-inc-" id="linkedinLink">LinkedIn</a></li>
+<li><a href="https://www.google.com/+Hogodoc" id="googleLink">Google+</a></li>
+</ul>
+</section>
+<p id="copyright">Copyright © 2021 HoGo, Inc. All Rights Reserved<br>
+844 Elm Street, Manchester, NH 03101</p>
+</div><!--/.container-->    
+<div class="clear"></div>
+</footer>
+
+</body></html>

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: elpisclothing.testRunner.elpisclothingTestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 22.728 s - in elpisclothing.testRunner.elpisclothingTestRunner

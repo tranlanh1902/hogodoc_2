@@ -1,0 +1,704 @@
+<html class="no-js" lang="vi"><!--<![endif]--><head>
+		<link rel="shortcut icon" href="//theme.hstatic.net/1000314103/1000689304/14/favicon.png?v=237" type="image/png">
+		<meta charset="utf-8">
+		<!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' /><![endif]-->
+		<!--[if lt IE 9]><script src="//hsta tic.net/0/0/global/design/theme-default/html5shiv.js"></script><![endif]-->
+		<title>
+			Tài khoản – ELPIS VN
+		</title>
+		
+		<link rel="canonical" href="https://elpisclothing.vn/account">
+		<meta name="robots" content="index,follow">
+		<meta name="revisit-after" content="1 day">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta name="HandheldFriendly" content="true">
+		<meta content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=0" name="viewport">
+		<link rel="dns-prefetch" href="https://elpisclothing.vn">
+		<link rel="dns-prefetch" href="//hstatic.net">
+		<script type="text/javascript" async="" src="https://app.hstatic.net/socialloginplus/1000314103/script-tag.js?v=1600247941990"></script><script type="text/javascript" async="" src="https://app.haraloyalty.com/api/assets/webpopup.js?scope=all&amp;v=1591679165"></script><script type="text/javascript" async="" src="https://app.haraloyalty.com/api/assets/webpopup.js?scope=all&amp;v=1591331862"></script><script type="text/javascript" async="" src="https://product-reviews-apps.haravan.com/js/productreview/ProductReviews.js"></script><script type="text/javascript" async="" src="https://c.o-s.io/124962/tracker.js"></script><script type="text/javascript" async="" src="https://onapp.haravan.com/loyalty/assets/widgets.js?shop=elpisshop.myharavan.com"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/config.js?sdkid=C1T8BHMHLSU5AAHCVDSG&amp;hostname=elpisclothing.vn"></script><script src="https://connect.facebook.net/signals/config/298952950695140?v=2.9.47&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/plugins/identity.js?v=2.9.47" async=""></script><script id="facebook-jssdk" src="https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js"></script><script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/qljbK_DTcvY1PzbR7IG69z1r/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-5mF5H4qJTx57mf1n4+Z4/WVlvWC/ZEZ6GYABx03MoihGmatuig2S2i+iBTy8gev2"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C1T8BHMHLSU5AAHCVDSG&amp;lib=ttq"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script src="https://theme.hstatic.net/1000314103/1000489901/14/cus-checkout.js?v=1634399578490"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.hstatic.net/analytics.min.js?t=2"></script><script type="text/javascript">
+//<![CDATA[
+if ((typeof Haravan) === 'undefined') {
+  Haravan = {};
+}
+Haravan.culture = 'vi-VN';
+Haravan.shop = 'elpisshop.myharavan.com';
+Haravan.theme = {"name":"[Ko Xóa] elpis New Collection (18/03/2021)","id":1000689304,"role":"main"};
+Haravan.domain = 'elpisclothing.vn';
+//]]>
+</script>
+<script>
+//<![CDATA[
+(function() { function asyncLoad() { var urls = ["https://onapp.haravan.com/loyalty/assets/widgets.js?shop=elpisshop.myharavan.com","https://c.o-s.io/124962/tracker.js","https://product-reviews-apps.haravan.com/js/productreview/ProductReviews.js","https://app.haraloyalty.com/api/assets/webpopup.js?scope=all&v=1591331862","https://app.haraloyalty.com/api/assets/webpopup.js?scope=all&v=1591679165","https://app.hstatic.net/socialloginplus/1000314103/script-tag.js?v=1600247941990"];for (var i = 0; i < urls.length; i++) {var s = document.createElement('script');s.type = 'text/javascript';s.async = true;s.src = urls[i];var x = document.getElementsByTagName('script')[0];x.parentNode.insertBefore(s, x);}}window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);})();
+//]]>
+</script>
+<script type="text/javascript">!function(){var hrv_analytics=window.hrv_analytics=window.hrv_analytics||[];if(!hrv_analytics.initialize)if(hrv_analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{hrv_analytics.invoked=!0;hrv_analytics.methods=["start","trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","debug","page","once","off","on"];hrv_analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);hrv_analytics.push(e);return hrv_analytics}};for(var t=0;t<hrv_analytics.methods.length;t++){var e=hrv_analytics.methods[t];hrv_analytics[e]=hrv_analytics.factory(e)}hrv_analytics.load=function(t,e){var n=document.createElement("script");n.type="text/javascript";n.async=!0;n.src="https://stats.hstatic.net/analytics.min.js?t=2";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(n,a);hrv_analytics._loadOptions=e};hrv_analytics.SNIPPET_VERSION="4.1.0";hrv_analytics.start('pro:web:1000314103');hrv_analytics.page();hrv_analytics.load();}}();</script><style>.grecaptcha-badge{visibility:hidden;}</style>
+<script type="text/javascript">
+window.HaravanAnalytics = window.HaravanAnalytics || {};
+window.HaravanAnalytics.meta = window.HaravanAnalytics.meta || {};
+window.HaravanAnalytics.meta.currency = 'VND';
+var meta = {"page":{"pageType":"account","resourceType":"account","resourceId":1044745867,"customerId":1044745867}};
+for (var attr in meta) {
+	window.HaravanAnalytics.meta[attr] = meta[attr];
+}
+window.HaravanAnalytics.AutoTrack = true;
+</script>
+<script>
+//<![CDATA[
+window.HaravanAnalytics.ga = "UA-171441210-1";
+window.HaravanAnalytics.enhancedEcommerce = false;
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', window.HaravanAnalytics.ga, 'auto', {allowLinker: true});
+ga('send', 'pageview'); ga('require', 'linker');try {
+!function(e,t,n){var a=t.getElementsByTagName(n)[0],c=t.createElement(n);c.async=false,c.src="https://theme.hstatic.net/1000314103/1000489901/14/cus-checkout.js?v="+(new Date).getTime(),a.parentNode.insertBefore(c,a)}(window,document,"script");
+} catch (e) {};
+                //]]>
+                </script>
+                <script>
+window.HaravanAnalytics.fb = "298952950695140";
+//<![CDATA[
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+// Insert Your Facebook Pixel ID below. 
+fbq('init', window.HaravanAnalytics.fb, {} , {'agent':'plharavan'});
+fbq('track', 'PageView');
+//]]>
+</script>
+<noscript><img height='1' width='1' style='display:none' src='https://www.facebook.com/tr?id=298952950695140&amp;ev=PageView&amp;noscript=1'/></noscript>
+		<meta name="facebook-domain-verification" content="buvmka97dylmvrqgv1d1hlio7hk57e">
+		<script>
+			window.shop = {
+				template: "customers[account]",
+				moneyFormat: "{{amount}} VND",
+				shopCurrency: "VND",
+				CollectionSortBy: "",
+				terms: "",
+				lang: 'vi'
+			};
+		</script>
+		
+<script src="https://cdn.jsdelivr.net/npm/jquery@2.2.4/dist/jquery.min.js"></script>
+<script>
+/* js cookie */
+!function(e){var n=!1;if("function"==typeof define&&define.amd&&(define(e),n=!0),"object"==typeof exports&&(module.exports=e(),n=!0),!n){var o=window.Cookies,t=window.Cookies=e();t.noConflict=function(){return window.Cookies=o,t}}}(function(){function e(){for(var e=0,n={};e<arguments.length;e++){var o=arguments[e];for(var t in o)n[t]=o[t]}return n}return function n(o){function t(n,r,i){var c;if("undefined"!=typeof document){if(arguments.length>1){if("number"==typeof(i=e({path:"/"},t.defaults,i)).expires){var a=new Date;a.setMilliseconds(a.getMilliseconds()+864e5*i.expires),i.expires=a}i.expires=i.expires?i.expires.toUTCString():"";try{c=JSON.stringify(r),/^[\{\[]/.test(c)&&(r=c)}catch(e){}r=o.write?o.write(r,n):encodeURIComponent(String(r)).replace(/%(23|24|26|2B|3A|3C|3E|3D|2F|3F|40|5B|5D|5E|60|7B|7D|7C)/g,decodeURIComponent),n=(n=(n=encodeURIComponent(String(n))).replace(/%(23|24|26|2B|5E|60|7C)/g,decodeURIComponent)).replace(/[\(\)]/g,escape);var s="";for(var f in i)i[f]&&(s+="; "+f,!0!==i[f]&&(s+="="+i[f]));return document.cookie=n+"="+r+s}n||(c={});for(var p=document.cookie?document.cookie.split("; "):[],d=/(%[0-9A-Z]{2})+/g,u=0;u<p.length;u++){var l=p[u].split("="),C=l.slice(1).join("=");this.json||'"'!==C.charAt(0)||(C=C.slice(1,-1));try{var g=l[0].replace(d,decodeURIComponent);if(C=o.read?o.read(C,g):o(C,g)||C.replace(d,decodeURIComponent),this.json)try{C=JSON.parse(C)}catch(e){}if(n===g){c=C;break}n||(c[g]=C)}catch(e){}}return c}}return t.set=t,t.get=function(e){return t.call(t,e)},t.getJSON=function(){return t.apply({json:!0},[].slice.call(arguments))},t.defaults={},t.remove=function(n,o){t(n,"",e(o,{expires:-1}))},t.withConverter=n,t}(function(){})});
+/*arg*/
+(function(global){global.MakeArg=function(){var Arg=function(){return Arg.get.apply(global,arguments)};Arg.version="1.3.0";Arg.parse=function(s){if(!s)return{};if(s.indexOf("=")===-1&&s.indexOf("&")===-1)return{};s=Arg._cleanParamStr(s);var obj={};var pairs=s.split("&");for(var pi in pairs){if(pairs.hasOwnProperty(pi)){var kvsegs=pairs[pi].split("=");var key=decodeURIComponent(kvsegs[0]),val=Arg.__decode(kvsegs[1]);Arg._access(obj,key,val)}}return obj};Arg.__decode=function(s){while(s&&s.indexOf("+")>-1){s=s.replace("+"," ")};s=decodeURIComponent(s);return s};Arg._access=function(obj,selector,value){var shouldSet=typeof value!=="undefined";var selectorBreak=-1;var coerce_types={'true':true,'false':false,'null':null};if(typeof selector=='string'||toString.call(selector)=='[object String]'){selectorBreak=selector.search(/[\.\[]/)}if(selectorBreak===-1){if(Arg.coerceMode){value=value&&!isNaN(value)?+value:value==='undefined'?undefined:coerce_types[value]!==undefined?coerce_types[value]:value}return shouldSet?(obj[selector]=value):obj[selector]}var currentRoot=selector.substr(0,selectorBreak);var nextSelector=selector.substr(selectorBreak+1);switch(selector.charAt(selectorBreak)){case'[':obj[currentRoot]=obj[currentRoot]||[];nextSelector=nextSelector.replace(']','');if(nextSelector.search(/[\.\[]/)===-1){nextSelector=parseInt(nextSelector,10)}return Arg._access(obj[currentRoot],nextSelector,value);case'.':obj[currentRoot]=obj[currentRoot]||{};return Arg._access(obj[currentRoot],nextSelector,value)}return obj};Arg.stringify=function(obj,keyPrefix){switch(typeof(obj)){case"object":var segs=[];var thisKey;for(var key in obj){if(!obj.hasOwnProperty(key))continue;var val=obj[key];if(typeof(key)==="undefined"||key.length===0||typeof(val)==="undefined"||val.length===0)continue;thisKey=keyPrefix?keyPrefix+"."+key:key;if(typeof obj.length!=="undefined"){thisKey=keyPrefix?keyPrefix+"["+key+"]":key}if(typeof val==="object"){segs.push(Arg.stringify(val,thisKey))}else{segs.push(encodeURIComponent(thisKey)+"="+encodeURIComponent(val))}}return segs.join("&")}return encodeURIComponent(obj)};Arg.url=function(){var sep=(Arg.urlUseHash?Arg.hashQuerySeperator:Arg.querySeperator);var segs=[location.pathname,sep];var args={};switch(arguments.length){case 1:segs.push(Arg.stringify(arguments[0]));break;case 2:segs[0]=Arg._cleanPath(arguments[0]);args=Arg.parse(arguments[0]);args=Arg.merge(args,arguments[1]);segs.push(Arg.stringify(args));break;case 3:segs[0]=Arg._cleanPath(arguments[0]);segs[1]=Arg.querySeperator;segs.push(Arg.stringify(arguments[1]));(typeof(arguments[2])==="string")?segs.push(Arg.hashSeperator):segs.push(Arg.hashQuerySeperator);segs.push(Arg.stringify(arguments[2]))}var s=segs.join("");if(s.indexOf(sep)==s.length-sep.length){s=s.substr(0,s.length-sep.length)}return s};Arg.urlUseHash=false;Arg.querySeperator="?";Arg.hashSeperator="#";Arg.hashQuerySeperator="#?";Arg.coerceMode=true;Arg.all=function(){var merged=Arg.parse(Arg.querystring()+"&"+Arg.hashstring());return Arg._all?Arg._all:Arg._all=merged};Arg.get=function(selector,def){var val=Arg._access(Arg.all(),selector);return typeof(val)==="undefined"?def:val};Arg.query=function(){return Arg._query?Arg._query:Arg._query=Arg.parse(Arg.querystring())};Arg.hash=function(){return Arg._hash?Arg._hash:Arg._hash=Arg.parse(Arg.hashstring())};Arg.querystring=function(){return Arg._cleanParamStr(location.search)};Arg.hashstring=function(){return Arg._cleanParamStr(location.hash)};Arg._cleanParamStr=function(s){if(s.indexOf(Arg.querySeperator)>-1)s=s.split(Arg.querySeperator)[1];if(s.indexOf(Arg.hashSeperator)>-1)s=s.split(Arg.hashSeperator)[1];if(s.indexOf("=")===-1&&s.indexOf("&")===-1)return"";while(s.indexOf(Arg.hashSeperator)==0||s.indexOf(Arg.querySeperator)==0)s=s.substr(1);return s};Arg._cleanPath=function(p){if(p.indexOf(Arg.querySeperator)>-1)p=p.substr(0,p.indexOf(Arg.querySeperator));if(p.indexOf(Arg.hashSeperator)>-1)p=p.substr(0,p.indexOf(Arg.hashSeperator));return p};Arg.merge=function(){var all={};for(var ai in arguments){if(arguments.hasOwnProperty(ai)){for(var k in arguments[ai]){if(arguments[ai].hasOwnProperty(k)){all[k]=arguments[ai][k]}}}}return all};return Arg};global.Arg=MakeArg()})(window);
+</script>
+<script>
+window.elp_lang = {
+	color: [],
+	view: {
+		
+	},
+	redirect: function(lang){
+		var tep = window.shop.template.split('.');
+		if(lang == 'vi'){
+			if(tep.length > 1){
+				if(tep[1] == 'en'){
+					window.location.replace(Arg.url(window.location.href, {view: ''}));
+				}else{
+					if(tep[1].indexOf('-en') !== -1){
+						window.location.replace(Arg.url(window.location.href, {view: ''}));
+					}
+				}
+			}
+		}else{
+			if(tep.length > 1){
+				if(tep[1] == 'en'){
+					
+				}else{
+					if(tep[1].indexOf('-en') !== -1){
+						
+					}else{
+						window.location.replace(Arg.url(window.location.href, {view: tep[1] + '-en'}));
+					}
+				}
+			}else{
+				window.location.replace(Arg.url(window.location.href, {view: 'en'}));
+			}
+		}
+	},
+	change: function(lang){
+		var tep = window.shop.template.split('.');
+		if(tep.length > 1){
+			if(tep[1] == 'en'){
+				window.location.replace(Arg.url(window.location.href, {view: ''}));
+			}else{
+				if(tep[1].indexOf('-en') !== -1){
+					window.location.replace(Arg.url(window.location.href, {view: ''}));
+				}else{
+					window.location.replace(Arg.url(window.location.href, {view: tep[1] + '-en'}));
+				}
+			}
+		}else{
+			window.location.replace(Arg.url(window.location.href, {view: 'en'}));
+		}
+	}
+}
+window.elp_lang.color.push({name_vi: "Hồng", name_en: "Pink", code: "#ebbcd7}}"})
+window.elp_lang.color.push({name_vi: "Cam", name_en: "Orange", code: "#e88412}}"})
+window.elp_lang.color.push({name_vi: "Xám", name_en: "Gray", code: "#d2dae2}}"})
+window.elp_lang.color.push({name_vi: "Xanh", name_en: "Blue", code: "#a5d6ed}}"})
+window.elp_lang.color.push({name_vi: "Vàng", name_en: "Yellow", code: "#f0f027}}"})
+window.elp_lang.color.push({name_vi: "Xanh đen", name_en: "Dark blue", code: "#111d47}}"})
+window.elp_lang.color.push({name_vi: "Kem", name_en: "Cream", code: "#ffffe5}}"})
+window.elp_lang.color.push({name_vi: "Đen", name_en: "Black", code: "#000000}}"})
+window.elp_lang.color.push({name_vi: "Trắng", name_en: "White", code: "#ffffff}}"})
+window.elp_lang.color.push({name_vi: "Đỏ", name_en: "Red", code: "#db0f0f}}"})
+window.elp_lang.color.push({name_vi: "Tím", name_en: "Violet", code: "#a55eea}}"})
+window.elp_lang.color.push({name_vi: "Nude", name_en: "Nude", code: "#ffddc7}}"})
+
+if(Cookies.get('elp_lang')){
+	window.elp_lang.redirect(Cookies.get('elp_lang'));
+}
+
+$(document).on('click', '.trigger-change-lang', function(e){
+	e.preventDefault();
+	if(!$(this).hasClass('act')){
+		var lang = $(this).attr('data-lang');
+		Cookies.set('elp_lang', lang);
+		window.elp_lang.change(lang);
+	}
+})
+</script>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css">
+<style>
+	[class*=mm-menu_pagedim].mm-menu_opened~.mm-wrapper__blocker{opacity:0}.mm-wrapper_opening [class*=mm-menu_pagedim].mm-menu_opened~.mm-wrapper__blocker{opacity:.3;-webkit-transition:opacity .4s ease .4s;-o-transition:opacity .4s ease .4s;transition:opacity .4s ease .4s}.mm-menu_opened.mm-menu_pagedim~.mm-wrapper__blocker{background:inherit}.mm-menu_opened.mm-menu_pagedim-black~.mm-wrapper__blocker{background:#000}.mm-menu_opened.mm-menu_pagedim-white~.mm-wrapper__blocker{background:#fff}
+	.mm-menu_position-right{left:auto;right:0}.mm-wrapper_opening .mm-menu_position-right.mm-menu_opened~.mm-slideout{-webkit-transform:translate3d(-80vw,0,0);transform:translate3d(-80vw,0,0)}@media all and (max-width:300px){.mm-wrapper_opening .mm-menu_position-right.mm-menu_opened~.mm-slideout{-webkit-transform:translate3d(-240px,0,0);transform:translate3d(-240px,0,0)}}@media all and (min-width:550px){.mm-wrapper_opening .mm-menu_position-right.mm-menu_opened~.mm-slideout{-webkit-transform:translate3d(-440px,0,0);transform:translate3d(-440px,0,0)}}.mm-menu_position-bottom,.mm-menu_position-front,.mm-menu_position-top{-webkit-transition:-webkit-transform .4s ease;transition:-webkit-transform .4s ease;-o-transition:transform .4s ease;transition:transform .4s ease;transition:transform .4s ease,-webkit-transform .4s ease}.mm-menu_position-bottom.mm-menu_opened,.mm-menu_position-front.mm-menu_opened,.mm-menu_position-top.mm-menu_opened{z-index:2}.mm-menu_position-bottom.mm-menu_opened~.mm-slideout,.mm-menu_position-front.mm-menu_opened~.mm-slideout,.mm-menu_position-top.mm-menu_opened~.mm-slideout{-webkit-transform:none!important;-ms-transform:none!important;transform:none!important;z-index:0}.mm-menu_position-bottom.mm-menu_opened~.mm-wrapper__blocker,.mm-menu_position-front.mm-menu_opened~.mm-wrapper__blocker,.mm-menu_position-top.mm-menu_opened~.mm-wrapper__blocker{z-index:1}.mm-menu_position-front{-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}.mm-menu_position-front.mm-menu_position-right{-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}.mm-menu_position-bottom,.mm-menu_position-top{width:100%;min-width:100%;max-width:100%}.mm-menu_position-top{-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}.mm-menu_position-top{height:80vh;min-height:140px;max-height:880px}.mm-menu_position-bottom{-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0);top:auto}.mm-menu_position-bottom{height:80vh;min-height:140px;max-height:880px}.mm-wrapper_opening .mm-menu_position-bottom,.mm-wrapper_opening .mm-menu_position-front,.mm-wrapper_opening .mm-menu_position-top{-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}
+	.mm-navbars_bottom,.mm-navbars_top{background:inherit;border-color:inherit;border-width:0;position:absolute;left:0;right:0;z-index:1}.mm-navbars_bottom>.mm-navbar,.mm-navbars_top>.mm-navbar{border-width:0;display:-webkit-box;display:-ms-flexbox;display:flex;position:relative}.mm-navbars_bottom>.mm-navbar:not(.mm-navbar_has-btns),.mm-navbars_top>.mm-navbar:not(.mm-navbar_has-btns){padding:0}.mm-navbars_bottom>.mm-navbar>:not(img):not(.mm-btn),.mm-navbars_top>.mm-navbar>:not(img):not(.mm-btn){-webkit-box-flex:1;-ms-flex:1;flex:1}.mm-navbars_top{border-bottom-style:solid;border-bottom-width:1px;top:0;bottom:auto}.mm-menu_navbar_top-1 .mm-panels{top:44px;top:calc(var(--mm-navbar-size) * 1)}.mm-menu_navbar_top-2 .mm-panels{top:88px;top:calc(var(--mm-navbar-size) * 2)}.mm-menu_navbar_top-3 .mm-panels{top:132px;top:calc(var(--mm-navbar-size) * 3)}.mm-menu_navbar_top-4 .mm-panels{top:176px;top:calc(var(--mm-navbar-size) * 4)}.mm-navbars_bottom{border-top-style:solid;border-top-width:1px;bottom:0;top:auto}.mm-menu_navbar_bottom-1 .mm-panels{bottom:44px;bottom:calc(var(--mm-navbar-size) * 1)}.mm-menu_navbar_bottom-2 .mm-panels{bottom:88px;bottom:calc(var(--mm-navbar-size) * 2)}.mm-menu_navbar_bottom-3 .mm-panels{bottom:132px;bottom:calc(var(--mm-navbar-size) * 3)}.mm-menu_navbar_bottom-4 .mm-panels{bottom:176px;bottom:calc(var(--mm-navbar-size) * 4)}.mm-navbar_size-2{height:88px;height:calc(var(--mm-navbar-size) * 2)}.mm-navbar_size-3{height:132px;height:calc(var(--mm-navbar-size) * 3)}.mm-navbar_size-4{height:176px;height:calc(var(--mm-navbar-size) * 4)}.mm-navbar__breadcrumbs{-o-text-overflow:ellipsis;text-overflow:ellipsis;white-space:nowrap;overflow:hidden;-webkit-overflow-scrolling:touch;overflow-x:auto;text-align:left;padding:0 0 0 20px}.mm-navbar__breadcrumbs>*{display:inline-block;padding-right:6px;padding-top:12px;padding-top:calc((var(--mm-navbar-size) - var(--mm-line-height)) * .5);padding-bottom:12px;padding-bottom:calc((var(--mm-navbar-size) - var(--mm-line-height)) * .5)}.mm-navbar__breadcrumbs>a{text-decoration:underline}.mm-navbar_has-btns .mm-navbar__breadcrumbs{margin-left:-44px}.mm-navbar_has-btns .mm-btn:not(.mm-hidden)+.mm-navbar__breadcrumbs{margin-left:0;padding-left:0}.mm-navbar__tab_selected{background:inherit!important;color:inherit!important;border-width:1px;border-style:solid;border-color:inherit}.mm-navbar__tab_selected:first-child{border-left:none}.mm-navbar__tab_selected:last-child{border-right:none}.mm-navbars_top.mm-navbars_has-tabs .mm-navbar_tabs,.mm-navbars_top.mm-navbars_has-tabs .mm-navbar_tabs~.mm-navbar{background:inherit!important;color:inherit!important}.mm-navbars_top .mm-navbar_tabs:not(:last-child){border-bottom-width:1px;border-bottom-style:solid}.mm-navbars_top .mm-navbar__tab_selected{border-bottom:none;margin-bottom:-1px}.mm-navbars_top .mm-navbar_tabs:first-child .mm-navbar__tab_selected{border-top:none}.mm-navbars_bottom.mm-navbars_has-tabs .mm-navbar{background:inherit;color:inherit}.mm-navbars_bottom .mm-navbar_tabs:not(:first-child){border-top-width:1px;border-top-style:solid}.mm-navbars_bottom .mm-navbar__tab_selected{border-top:none;margin-top:-1px}.mm-navbars_bottom .mm-navbar_tabs:last-child .mm-navbar__tab_selected{border-bottom:none}.mm-navbar_tabs>a:not(.mm-navbar__tab_selected),.mm-navbars_bottom.mm-navbars_has-tabs .mm-navbar_tabs~.mm-navbar,.mm-navbars_top.mm-navbars_has-tabs>.mm-navbar:not(.mm-navbar_tabs){background:rgba(255,255,255,.4);background:var(--mm-color-background-emphasis);color:rgba(0,0,0,.3);color:var(--mm-color-text-dimmed)}
+</style>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jQuery.mmenu/7.3.3/jquery.mmenu.css">
+
+<link href="//theme.hstatic.net/1000314103/1000689304/14/styles.css?v=237" rel="stylesheet" type="text/css" media="all">
+
+<link href="//theme.hstatic.net/1000314103/1000689304/14/styles-elpis.scss.css?v=237" rel="stylesheet" type="text/css" media="all">
+		<meta property="og:type" content="website">
+<meta property="og:title" content="Tài khoản">
+<meta property="og:image" content="http://theme.hstatic.net/1000314103/1000689304/14/share_fb_home.png?v=237">
+<meta property="og:image:secure_url" content="https://theme.hstatic.net/1000314103/1000689304/14/share_fb_home.png?v=237">
+<meta property="og:url" content="https://elpisclothing.vn/account"><meta property="og:site_name" content="ELPIS VN">
+		
+		<script>if (typeof(_sokShops) === "undefined") { _sokShops = {};}_sokShops.getNumber = function(val) { val = val.replace(/,/g, ""); var reg = /\d+(\.\d{1,2})?/; if (val.length && val.match(reg).length) { return parseFloat(val.match(reg)[0]); } else { return 0; }};  _sokShops.customer = { cust_name: "QUYNH VUONG", cust_email: "quynhkudo1998@gmail.com", cust_location: "", cust_city: "", cust_locality: "70000", currency: "VND" };  _sokShops.cart = {  product_imageurl: [ ], sku_id: [ ],  product_names: [ ], sku_url: [ ],product_prices: [ ], product_quantities: [ ], cart_amount: _sokShops.getNumber("0 VND"), currency: "VND" };</script>
+		<script>
+			!function (w, d, t) {
+				w.TiktokAnalyticsObject=t;var ttq=w[t]=w[t]||[];ttq.methods=["page","track","identify","instances","debug","on","off","once","ready","alias","group","enableCookie","disableCookie"],ttq.setAndDefer=function(t,e){t[e]=function(){t.push([e].concat(Array.prototype.slice.call(arguments,0)))}};for(var i=0;i<ttq.methods.length;i++)ttq.setAndDefer(ttq,ttq.methods[i]);ttq.instance=function(t){for(var e=ttq._i[t]||[],n=0;n<ttq.methods.length;n++)ttq.setAndDefer(e,ttq.methods[n]);return e},ttq.load=function(e,n){var i="https://analytics.tiktok.com/i18n/pixel/events.js";ttq._i=ttq._i||{},ttq._i[e]=[],ttq._i[e]._u=i,ttq._t=ttq._t||{},ttq._t[e]=+new Date,ttq._o=ttq._o||{},ttq._o[e]=n||{};var o=document.createElement("script");o.type="text/javascript",o.async=!0,o.src=i+"?sdkid="+e+"&lib="+t;var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(o,a)};
+				ttq.load('C1T8BHMHLSU5AAHCVDSG');
+				ttq.page();
+			}(window, document, 'ttq');
+		</script>
+	<script charset="utf-8" src="https://analytics.tiktok.com/i18n/pixel/identify.js"></script><style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
+.fb_mpn_mobile_landing_page_slide_out{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_out_from_left{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out_from_left;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_up{animation-duration:500ms;animation-name:fb_mpn_landing_page_slide_up;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_in{animation-duration:300ms;animation-name:fb_mpn_bounce_in;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out{animation-duration:300ms;animation-name:fb_mpn_bounce_out;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out_v2{animation-duration:300ms;animation-name:fb_mpn_fade_out;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_v2{animation-duration:300ms;animation-name:fb_bounce_in_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_from_left{animation-duration:300ms;animation-name:fb_bounce_in_from_left;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2{animation-duration:300ms;animation-name:fb_bounce_out_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_from_left{animation-duration:300ms;animation-name:fb_bounce_out_from_left;transition-timing-function:ease-in}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}@keyframes fb_mpn_landing_page_slide_out{0%{margin:0 12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;margin:0 24px;width:60px}}@keyframes fb_mpn_landing_page_slide_out_from_left{0%{left:12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;left:12px;width:60px}}@keyframes fb_mpn_landing_page_slide_up{0%{bottom:0;opacity:0}100%{bottom:24px;opacity:1}}@keyframes fb_mpn_bounce_in{0%{opacity:.5;top:100%}100%{opacity:1;top:0}}@keyframes fb_mpn_fade_out{0%{bottom:30px;opacity:1}100%{bottom:0;opacity:0}}@keyframes fb_mpn_bounce_out{0%{opacity:1;top:0}100%{opacity:.5;top:100%}}@keyframes fb_bounce_in_v2{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}50%{transform:scale(1.03, 1.03);transform-origin:bottom right}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}}@keyframes fb_bounce_in_from_left{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}50%{transform:scale(1.03, 1.03);transform-origin:bottom left}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}}@keyframes fb_bounce_out_v2{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}}@keyframes fb_bounce_out_from_left{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}}@keyframes slideInFromBottom{0%{opacity:.1;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}@keyframes slideInFromBottomDelay{0%{opacity:0;transform:translateY(100%)}97%{opacity:0;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}</style><script type="text/javascript" src=""></script><link rel="stylesheet" type="text/css" href="//onapp.haravan.com/loyalty/static/stylesheets/widgets-main.css?shopname=elpisshop.myharavan.com"><link rel="stylesheet" type="text/css" href="https://product-reviews-apps.haravan.com/css/ProductReviews.css" media="all"><link rel="stylesheet" type="text/css" href="https://product-reviews-apps.haravan.com/css/jquery.raty.css" media="all"><link rel="stylesheet" href="//hstatic.net/0/0/global/design/plugins/font-awesome/4.6.3/css/font-awesome.min.css" type="text/css"></head>
+	<body class="customers[account]-page"><div id="main-menu-mobile" class="mm-menu mm-menu_offcanvas mm-menu_navbar_bottom-1 mm-menu_pagedim-black mm-menu_position-front" aria-hidden="true"><div class="mm-panels"><div id="mm-0" class="mm-panel mm-panel_has-navbar mm-panel_opened"><div class="mm-navbar"><a class="mm-navbar__title">Menu</a></div><ul class="mm-listview">
+		
+		<li class="mb-accout has-acc mm-listitem">
+			<a href="#" class="mm-listitem__text">
+				<span>
+					<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none">
+						<g id="account">
+							<path id="account (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M49.229 20.655C45.1645 24.0246 42.2704 29.3423 42.2704 37.2446V52.6224C42.2704 61.9225 47.5901 70.0764 53.3732 75.1381C53.6986 75.423 53.8853 75.8344 53.8853 76.2669V81.4224C53.8853 83.6164 52.7229 86.124 49.5155 88.3822C46.3521 90.6095 41.1255 92.6612 32.7276 94.1008L32.7122 94.1034C24.535 95.4176 18.12 101.17 16.0874 108.722H111.678C108.715 101.192 101.952 95.6477 93.5945 94.0975C85.2123 92.5704 80.3534 90.5125 77.5727 88.2533C76.1609 87.1062 75.2761 85.9 74.7556 84.6904C74.2368 83.4848 74.1149 82.3573 74.1149 81.4224V76.2669C74.1149 75.8344 74.3015 75.423 74.627 75.1381C80.4079 70.0783 85.7297 61.8358 85.7297 52.6224V37.2446C85.7297 29.3423 82.8356 24.0246 78.7711 20.655C74.6614 17.2479 69.2179 15.7224 64.0001 15.7224C58.7823 15.7224 53.3387 17.2479 49.229 20.655ZM47.3143 18.3454C52.0771 14.3969 58.2483 12.7224 64.0001 12.7224C69.7518 12.7224 75.9231 14.3969 80.6858 18.3454C85.4938 22.3314 88.7297 28.5247 88.7297 37.2446V52.6224C88.7297 62.6796 83.1275 71.4694 77.1149 76.9386V81.4224C77.1149 82.0875 77.2004 82.7823 77.5112 83.5045C77.8203 84.2226 78.3874 85.0498 79.4645 85.9249C81.6612 87.7098 85.9273 89.6516 94.1355 91.1467L94.1402 91.1475C104.259 93.024 112.377 100.168 115.217 109.798C115.35 110.252 115.262 110.742 114.979 111.121C114.696 111.499 114.251 111.722 113.778 111.722H14.2223C13.7798 111.722 13.3599 111.527 13.0749 111.189C12.7899 110.85 12.6689 110.403 12.7442 109.967C14.4251 100.242 22.2269 92.7533 32.2283 91.1427C40.4183 89.738 45.1451 87.7903 47.7884 85.9293C50.3884 84.0986 50.8853 82.4284 50.8853 81.4224V76.9388C44.8746 71.4759 39.2704 62.768 39.2704 52.6224V37.2446C39.2704 28.5247 42.5064 22.3314 47.3143 18.3454Z"></path>
+						</g>
+					</svg>
+				</span>
+				
+				<span class="parent mbc-acc">
+					<span>Xin chào </span><b>QUYNH VUONG</b>
+				</span>
+				
+			</a>
+		</li>
+		
+		
+		<li class="mm-listitem">
+			<a href="/" class="mm-listitem__text">Bộ Sưu Tập</a><a class="mm-btn mm-btn_next mm-listitem__btn" href="#mm-1" aria-owns="mm-1" aria-haspopup="true"><span class="mm-sronly">Open submenu</span></a>
+			
+		</li>
+		
+		
+		
+		<li class="mm-listitem">
+			<a href="/collections/all" class="mm-listitem__text">e-SHOP</a><a class="mm-btn mm-btn_next mm-listitem__btn" href="#mm-2" aria-owns="mm-2" aria-haspopup="true"><span class="mm-sronly">Open submenu</span></a>
+			
+		</li>
+		
+		
+		
+		<li class="mm-listitem"><a href="/blogs/magazine" class="mm-listitem__text">Magazine</a></li>
+		
+		
+	</ul></div><div id="mm-1" class="mm-panel mm-hidden mm-panel_has-navbar" aria-hidden="true"><div class="mm-navbar"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-0" aria-owns="mm-0" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-0">Bộ Sưu Tập</a></div><ul class="mm-listview">
+				
+				<li class="mm-listitem"><a href="/collections/resort-21-a-new-origional" class="mm-listitem__text">Resort'21</a></li>
+				
+				<li class="mm-listitem"><a href="/collections/spring-summer-21" class="mm-listitem__text">Summer'21</a></li>
+				
+				<li class="mm-listitem"><a href="/collections/spring-21" class="mm-listitem__text">Spring'21</a></li>
+				
+				<li class="mm-listitem"><a href="/collections/holiday-21" class="mm-listitem__text">Fall-Winter &amp; Holiday'20</a></li>
+				
+				<li class="mm-listitem"><a href="/collections/pre-fall-20" class="mm-listitem__text">Pre-Fall'20</a></li>
+				
+			</ul></div><div id="mm-2" class="mm-panel mm-hidden mm-panel_has-navbar" aria-hidden="true"><div class="mm-navbar"><a class="mm-btn mm-btn_prev mm-navbar__btn" href="#mm-0" aria-owns="mm-0" aria-haspopup="true"><span class="mm-sronly">Close submenu</span></a><a class="mm-navbar__title" href="#mm-0">e-SHOP</a></div><ul class="mm-listview">
+				
+				<li class="mm-listitem"><a href="/collections/best-seller" class="mm-listitem__text">BEST SELLER</a></li>
+				
+				<li class="mm-listitem"><a href="/collections/party-queen" class="mm-listitem__text">Đầm Ngắn</a></li>
+				
+				<li class="mm-listitem"><a href="/collections/midi-dresss" class="mm-listitem__text">Đầm Dài</a></li>
+				
+				<li class="mm-listitem"><a href="/collections/bodycon-dresss" class="mm-listitem__text">Đầm Ôm</a></li>
+				
+				<li class="mm-listitem"><a href="/collections/top" class="mm-listitem__text">Áo/ Bralette</a></li>
+				
+				<li class="mm-listitem"><a href="/collections/bottom" class="mm-listitem__text">Quần/ Chân váy</a></li>
+				
+			</ul></div></div>
+	
+<div class="mm-navbars_bottom"><div class="mm-navbar"><div class="site-lang-mb"><a href="#" class="trigger-change-lang act" data-lang="vi">VN</a><a href="#" class="trigger-change-lang" data-lang="en">EN</a></div></div></div></div>
+		<div id="site-wrapper" class="mm-page mm-slideout">
+			
+			<header id="ep-header">
+	<div class="ep-header-wrap">
+		<div class="ep-header-left">
+			<a class="sitenav-mobile-trigger" href="#main-menu-mobile"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 53 53" style="enable-background:new 0 0 53 53;" xml:space="preserve">
+				<g>
+					<g>
+						<path d="M2,13.5h49c1.104,0,2-0.896,2-2s-0.896-2-2-2H2c-1.104,0-2,0.896-2,2S0.896,13.5,2,13.5z"></path>
+						<path d="M2,28.5h49c1.104,0,2-0.896,2-2s-0.896-2-2-2H2c-1.104,0-2,0.896-2,2S0.896,28.5,2,28.5z"></path>
+						<path d="M2,43.5h49c1.104,0,2-0.896,2-2s-0.896-2-2-2H2c-1.104,0-2,0.896-2,2S0.896,43.5,2,43.5z"></path>
+					</g>
+				</g>
+				</svg>
+			</a>
+			<div class="ep-logo">
+				<a href="/">
+					<img class="logo-light img-responsive" src="//theme.hstatic.net/1000314103/1000689304/14/logo.png?v=237">
+					<img class="logo-dark img-responsive" src="//theme.hstatic.net/1000314103/1000689304/14/logo_dark.png?v=237">
+				</a>
+			</div>
+			<div class="ep-main-menu">
+				<ul id="main-menu">
+					
+					
+					
+					<li>
+						<a href="/">Bộ Sưu Tập</a>
+						<ul style="padding-left: 300px;">
+							
+							<li><a href="/collections/resort-21-a-new-origional">Resort'21</a></li>
+							
+							<li><a href="/collections/spring-summer-21">Summer'21</a></li>
+							
+							<li><a href="/collections/spring-21">Spring'21</a></li>
+							
+							<li><a href="/collections/holiday-21">Fall-Winter &amp; Holiday'20</a></li>
+							
+							<li><a href="/collections/pre-fall-20">Pre-Fall'20</a></li>
+							
+						</ul>
+					</li>
+					
+					
+					
+					<li>
+						<a href="/collections/all">e-SHOP</a>
+						<ul style="padding-left: 432.75px;">
+							
+							<li><a href="/collections/best-seller">BEST SELLER</a></li>
+							
+							<li><a href="/collections/party-queen">Đầm Ngắn</a></li>
+							
+							<li><a href="/collections/midi-dresss">Đầm Dài</a></li>
+							
+							<li><a href="/collections/bodycon-dresss">Đầm Ôm</a></li>
+							
+							<li><a href="/collections/top">Áo/ Bralette</a></li>
+							
+							<li><a href="/collections/bottom">Quần/ Chân váy</a></li>
+							
+						</ul>
+					</li>
+					
+					
+					
+					<li><a href="/blogs/magazine">Magazine</a></li>
+					
+					
+				</ul>
+			</div>
+		</div>
+		<div class="ep-header-right">
+			<ul id="ep-menu-right">
+				<li><a href="#" class="epmr-search js-search">
+					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 512 512">
+						<g>
+							<path d="M495,466.2L377.2,348.4c29.2-35.6,46.8-81.2,46.8-130.9C424,103.5,331.5,11,217.5,11C103.4,11,11,103.5,11,217.5   S103.4,424,217.5,424c49.7,0,95.2-17.5,130.8-46.7L466.1,495c8,8,20.9,8,28.9,0C503,487.1,503,474.1,495,466.2z M217.5,382.9   C126.2,382.9,52,308.7,52,217.5S126.2,52,217.5,52C308.7,52,383,126.3,383,217.5S308.7,382.9,217.5,382.9z"></path>
+						</g>
+					</svg>
+					<span>TÌM KIẾM</span></a></li>
+				<li><a href="/account">TÀI KHOẢN</a></li>
+				<li class="lang-trigger-wrap">
+					<a href="#" class="trigger-change-lang act" data-lang="vi">VN</a>
+					<ul>
+						<li><a href="#" class="trigger-change-lang" data-lang="en">EN</a></li>
+					</ul>
+				</li>
+				<li><a href="#" class="epmr-cart js-cart">
+					<!--?xml version="1.0" encoding="utf-8"?-->
+					<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 25 25" style="enable-background:new 0 0 25 25;" xml:space="preserve">
+						<g>
+							<g>
+								<path class="st0" d="M19.6,24.1H5.4c-2.1,0-3.9-1.7-3.9-3.9V9.6c0-2.1,1.7-3.9,3.9-3.9h14.3c2.1,0,3.9,1.7,3.9,3.9v10.6
+																		 C23.5,22.4,21.8,24.1,19.6,24.1z M5.4,6.7C3.7,6.7,2.4,8,2.4,9.6v10.6c0,1.6,1.3,2.9,2.9,2.9h14.3c1.6,0,2.9-1.3,2.9-2.9V9.6
+																		 c0-1.6-1.3-2.9-2.9-2.9H5.4z"></path>
+							</g>
+							<g>
+								<path class="st0" d="M17.1,5.6h-0.9c0-2-1.7-3.7-3.7-3.7S8.8,3.5,8.8,5.6H7.9c0-2.6,2.1-4.6,4.6-4.6S17.1,3,17.1,5.6z"></path>
+							</g>
+						</g>
+					</svg>
+
+					<span class="epmr-cart-count">
+						0
+					</span>
+
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div class="search-form-drop">
+		<form action="/search" id="search-block">
+			<input type="hidden" name="type" value="product">
+			<div class="search-input-line">
+				<input type="text" id="block-search-input" name="q" autocomplete="off" required="">
+				<button type="button" class="close-search-block">
+					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.642 15.642" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 15.642 15.642">
+						<path fill-rule="evenodd" d="M8.882,7.821l6.541-6.541c0.293-0.293,0.293-0.768,0-1.061  c-0.293-0.293-0.768-0.293-1.061,0L7.821,6.76L1.28,0.22c-0.293-0.293-0.768-0.293-1.061,0c-0.293,0.293-0.293,0.768,0,1.061  l6.541,6.541L0.22,14.362c-0.293,0.293-0.293,0.768,0,1.061c0.147,0.146,0.338,0.22,0.53,0.22s0.384-0.073,0.53-0.22l6.541-6.541  l6.541,6.541c0.147,0.146,0.338,0.22,0.53,0.22c0.192,0,0.384-0.073,0.53-0.22c0.293-0.293,0.293-0.768,0-1.061L8.882,7.821z"></path>
+					</svg>
+				</button>
+
+				<div class="suggest-search hidden"></div>
+			</div>
+			<button type="submit" class="hidden"></button>
+		</form>
+	</div>
+</header>
+
+			
+			<div id="main-content">
+				
+<div class="layout-info-account">
+	<div class="title-infor-account text-center">
+		<h1>Tài khoản của bạn </h1>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-12 col-sm-3 sidebar-account">
+				<div class="AccountSidebar">
+	<h3 class="AccountTitle titleSidebar">Tài khoản</h3>
+	<div class="AccountContent">
+		<div class="AccountList">
+			<ul class="list-unstyled">			
+				<li class="current"><a href="/account">Thông tin tài khoản</a></li>
+				<li><a href="/account/addresses">Danh sách địa chỉ</a></li>
+				<li class="last"><a href="/account/logout">Đăng xuất</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+			</div>
+			<div class="col-xs-12 col-sm-9">
+				<div class="row">
+					<div class="col-xs-12" id="customer_sidebar">
+						<p class="title-detail">Tông tin tài khoản</p>
+						
+						<h2 class="name_account">QUYNH VUONG</h2>
+						
+
+						<p class="email ">quynhkudo1998@gmail.com</p>
+						<div class="address ">
+							
+							<p></p>
+							
+							<p></p>
+							
+							<p> Vietnam</p>
+							<p>0329192900</p>
+							
+							<a id="view_address" href="/account/addresses">Xem địa chỉ</a>
+						</div>
+					</div>
+					<div class="col-xs-12 customer-table-wrap" id="customer_orders">	
+						<div class="customer_order customer-table-bg">		
+							
+							<p>Bạn chưa đặt mua sản phẩm.</p>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+</div>
+
+
+			</div>
+			<div class="back-to-top-wrap">
+	<button class="back-to-top">BACK TO TOP <svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" fill="none">
+		<g id="arrow">
+			<path id="arrow (Stroke)" fill-rule="evenodd" clip-rule="evenodd" d="M126.701 89.564C126.177 90.2057 125.232 90.3013 124.59 89.7774L65.2308 41.321L5.8717 89.7774C5.22996 90.3013 4.28502 90.2057 3.76115 89.564C3.23727 88.9222 3.33282 87.9773 3.97458 87.4534L64.2823 38.2226C64.8344 37.772 65.6273 37.772 66.1794 38.2226L126.487 87.4534C127.129 87.9773 127.224 88.9222 126.701 89.564Z" fill="#222222"></path>
+		</g>
+		</svg>
+	</button>
+</div>
+<footer id="main-footer">
+	<div class="main-footer-head">
+		<div class="main-footer-head-left">
+			<a href="/">
+				<img class="img-responsive" src="//theme.hstatic.net/1000314103/1000689304/14/logo_dark.png?v=237">
+			</a>
+		</div>
+		<div class="main-footer-head-right">
+			<div class="mfhr-address">
+				store<br>
+270 VÕ VĂN TẦN, <br>
+P.5, Q.3, TP. HCM, <br>
+ VIỆT NAM
+
+			</div>
+		</div>
+	</div>
+	<div class="main-footer-body">
+		<div class="mfhr-desc">
+			HỘ KINH DOANH VÌ SAO XANH <br>
+			Địa chỉ: Lầu 3, 236/43/9 Điện Biên Phủ, phường 17, Bình Thạnh, Hồ Chí Minh <br>
+			GP Số: 41O8042490 do Phòng Kinh Tế, UBND Quận Bình Thạnh cấp ngày 07/04/2021<br>
+		 
+		</div>
+		<div class="mfhr-content">
+			<div class="mfhr-menu">
+				
+				<div class="mfhr-menu-links mfhr-menu-1">
+					<ul>
+						
+						<li><a href="/pages/dieu-khoan-dich-vu">CHÍNH SÁCH VẬN CHUYỂN</a></li>
+						
+						<li><a href="/pages/chinh-sach-doi-tra">QUY ĐỊNH ĐỔI TRẢ</a></li>
+						
+						<li><a href="/pages/bao-quan-trang-phuc">BẢO QUẢN TRANG PHỤC</a></li>
+						
+						<li><a href="/pages/giai-quyet-khieu-nai">GIẢI QUYẾT KHIẾU NẠI</a></li>
+						
+						<li><a href="/pages/chinh-sach-bao-mat">CHÍNH SÁCH BẢO MẬT</a></li>
+						
+					</ul>
+				</div>
+				
+				
+				<div class="mfhr-menu-links mfhr-menu-2">
+					<ul>
+						
+						<li><a href="/pages/lien-he">LIÊN HỆ</a></li>
+						
+						<li><a href="/pages/about-us">VỀ ELPIS</a></li>
+						
+						<li><a href="/">TUYỂN DỤNG</a></li>
+						
+						<li><a href="/pages/chinh-sach-thanh-vien-1">CHÍNH SÁCH THÀNH VIÊN</a></li>
+						
+					</ul>
+				</div>
+				
+				<div class="mfhr-menu-links mfhr-menu-social">
+					<ul>
+						
+						<li><a href="https://www.instagram.com/ELPISCLOTHING/">INSTAGRAM</a></li>
+						
+						
+						<li><a href="https://www.facebook.com/elpisclothing/">FACEBOOK</a></li>
+						
+						
+						
+						<li><a href="https://www.pinterest.com/elpisclothing0579/">PINTEREST</a></li>
+						
+					</ul>
+				</div>
+				<div class="mfhr-newletter">
+					<h3>
+						NEWSLETTER ELPIS
+					</h3>
+					<div class="mfhr-newletter-form form-newsletter">
+						<form accept-charset="UTF-8" action="/account/contact" class="contact-form" method="post">
+<input name="form_type" type="hidden" value="customer">
+<input name="utf8" type="hidden" value="✓">
+
+						<input type="hidden" name="contact[tags]" value="khách hàng tiềm năng, bản tin">     
+						<div class="block-newletter-line">
+							<input required="" type="email" placeholder="Nhập email của bạn" name="contact[email]">
+							<button type="submit">
+								Theo dõi
+							</button>
+						</div>
+						<p class="text-success alert-form hidden">
+							Đăng ký thành công. Xin cám ơn!
+						</p>
+						
+<input id="f331a37a251e4c8f9af8dc7505b60429" name="g-recaptcha-response" type="hidden" value="03AGdBq259xl4wRTCClj7bfs5U3PO6AwJK4DPczq8xVtiMgQzih20-K5TW6NMZs3gN6QnB-jM_Szglo3jGP7SosLKQ-pAnH_42vNnCnDBQTGwq9qUTw-cZO9JiD5zpSnewru2JNH0zXpd5n_wVA5rgBqor43iIO3_ZP0XxytAAg-M5OlH6bgIIGD4ytRUMxdcWYI0_B4Gh5zL9ZdVd9aDAyE4OW_YDtCYA3YBCoWJCnBbHLV6akxGGcYzN4Ymuc90rzHlgnHnRKcDg6-rXZvzgl5WBqYvtUS56V3-j3cDBbh7PCf6sP-yaOctLUyEtkBKYvqIwYGuZJJmYa_3u5ex8znOyaS_VUmdY02ySbsvXSCjv3ScVE4jgZEiYgQJnnOUX1huBTklHVHQS_7RsuVo_MapESBG7V9nQcGKXNVb07X55a2Yoo7Ngbfk3Q-2UouE4ZQL5q7nJzxfr"><script src="https://www.google.com/recaptcha/api.js?render=6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-"></script><script>grecaptcha.ready(function() {grecaptcha.execute('6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-', {action: 'submit'}).then(function(token) {document.getElementById('f331a37a251e4c8f9af8dc7505b60429').value = token;});});</script></form>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="main-footer-foot">
+		<div class="main-footer-foot-wrap">
+			<span>@2019 ELPIS</span>
+			<span>All right reserved.</span>
+		</div>
+	</div>
+</footer>
+
+			<div id="sitenav-cart">
+	<div class="sitenav-cart-wrap">
+		<div class="sitenav-cart-content">
+			<div class="sitenav-cart-head">
+				<div>
+					<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 486.569 486.569" style="enable-background:new 0 0 486.569 486.569;" xml:space="preserve">
+						<g>
+							<path d="M146.069,320.369h268.1c30.4,0,55.2-24.8,55.2-55.2v-112.8c0-0.1,0-0.3,0-0.4c0-0.3,0-0.5,0-0.8c0-0.2,0-0.4-0.1-0.6
+											 c0-0.2-0.1-0.5-0.1-0.7s-0.1-0.4-0.1-0.6c-0.1-0.2-0.1-0.4-0.2-0.7c-0.1-0.2-0.1-0.4-0.2-0.6c-0.1-0.2-0.1-0.4-0.2-0.6
+											 c-0.1-0.2-0.2-0.4-0.3-0.7c-0.1-0.2-0.2-0.4-0.3-0.5c-0.1-0.2-0.2-0.4-0.3-0.6c-0.1-0.2-0.2-0.3-0.3-0.5c-0.1-0.2-0.3-0.4-0.4-0.6
+											 c-0.1-0.2-0.2-0.3-0.4-0.5c-0.1-0.2-0.3-0.3-0.4-0.5s-0.3-0.3-0.4-0.5s-0.3-0.3-0.4-0.4c-0.2-0.2-0.3-0.3-0.5-0.5
+											 c-0.2-0.1-0.3-0.3-0.5-0.4c-0.2-0.1-0.4-0.3-0.6-0.4c-0.2-0.1-0.3-0.2-0.5-0.3s-0.4-0.2-0.6-0.4c-0.2-0.1-0.4-0.2-0.6-0.3
+											 s-0.4-0.2-0.6-0.3s-0.4-0.2-0.6-0.3s-0.4-0.1-0.6-0.2c-0.2-0.1-0.5-0.2-0.7-0.2s-0.4-0.1-0.5-0.1c-0.3-0.1-0.5-0.1-0.8-0.1
+											 c-0.1,0-0.2-0.1-0.4-0.1l-339.8-46.9v-47.4c0-0.5,0-1-0.1-1.4c0-0.1,0-0.2-0.1-0.4c0-0.3-0.1-0.6-0.1-0.9c-0.1-0.3-0.1-0.5-0.2-0.8
+											 c0-0.2-0.1-0.3-0.1-0.5c-0.1-0.3-0.2-0.6-0.3-0.9c0-0.1-0.1-0.3-0.1-0.4c-0.1-0.3-0.2-0.5-0.4-0.8c-0.1-0.1-0.1-0.3-0.2-0.4
+											 c-0.1-0.2-0.2-0.4-0.4-0.6c-0.1-0.2-0.2-0.3-0.3-0.5s-0.2-0.3-0.3-0.5s-0.3-0.4-0.4-0.6c-0.1-0.1-0.2-0.2-0.3-0.3
+											 c-0.2-0.2-0.4-0.4-0.6-0.6c-0.1-0.1-0.2-0.2-0.3-0.3c-0.2-0.2-0.4-0.4-0.7-0.6c-0.1-0.1-0.3-0.2-0.4-0.3c-0.2-0.2-0.4-0.3-0.6-0.5
+											 c-0.3-0.2-0.6-0.4-0.8-0.5c-0.1-0.1-0.2-0.1-0.3-0.2c-0.4-0.2-0.9-0.4-1.3-0.6l-73.7-31c-6.9-2.9-14.8,0.3-17.7,7.2
+											 s0.3,14.8,7.2,17.7l65.4,27.6v61.2v9.7v74.4v66.5v84c0,28,21,51.2,48.1,54.7c-4.9,8.2-7.8,17.8-7.8,28c0,30.1,24.5,54.5,54.5,54.5
+											 s54.5-24.5,54.5-54.5c0-10-2.7-19.5-7.5-27.5h121.4c-4.8,8.1-7.5,17.5-7.5,27.5c0,30.1,24.5,54.5,54.5,54.5s54.5-24.5,54.5-54.5
+											 s-24.5-54.5-54.5-54.5h-255c-15.6,0-28.2-12.7-28.2-28.2v-36.6C126.069,317.569,135.769,320.369,146.069,320.369z M213.269,431.969
+											 c0,15.2-12.4,27.5-27.5,27.5s-27.5-12.4-27.5-27.5s12.4-27.5,27.5-27.5S213.269,416.769,213.269,431.969z M428.669,431.969
+											 c0,15.2-12.4,27.5-27.5,27.5s-27.5-12.4-27.5-27.5s12.4-27.5,27.5-27.5S428.669,416.769,428.669,431.969z M414.169,293.369h-268.1
+											 c-15.6,0-28.2-12.7-28.2-28.2v-66.5v-74.4v-5l324.5,44.7v101.1C442.369,280.769,429.669,293.369,414.169,293.369z"></path>
+						</g>
+					</svg>
+
+				</div>
+				<div>Giỏ hàng</div>
+				<div>
+					<a href="#" class="js-close-cart"><svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.642 15.642" xmlns:xlink="http://www.w3.org/1999/xlink" enable-background="new 0 0 15.642 15.642">
+						<path fill-rule="evenodd" d="M8.882,7.821l6.541-6.541c0.293-0.293,0.293-0.768,0-1.061  c-0.293-0.293-0.768-0.293-1.061,0L7.821,6.76L1.28,0.22c-0.293-0.293-0.768-0.293-1.061,0c-0.293,0.293-0.293,0.768,0,1.061  l6.541,6.541L0.22,14.362c-0.293,0.293-0.293,0.768,0,1.061c0.147,0.146,0.338,0.22,0.53,0.22s0.384-0.073,0.53-0.22l6.541-6.541  l6.541,6.541c0.147,0.146,0.338,0.22,0.53,0.22c0.192,0,0.384-0.073,0.53-0.22c0.293-0.293,0.293-0.768,0-1.061L8.882,7.821z"></path>
+						</svg></a>
+				</div>
+			</div>
+			<div class="sitenav-cart-detail">
+				<div class="sitenav-cart-lines" data-total="0">
+					
+					<p style="margin-top: 50px; text-align: center; font-size: 16px;">
+						Giỏ hàng của bạn đang trống
+					</p>
+					<p style="text-align: center; text-transform: uppercase; font-size: 13px; ">
+						<a href="#" style="text-decoration: none; font-weight: 500;" class="js-close-cart">Tiếp tục mua hàng</a>
+					</p>
+					
+				</div>
+				<div class="sitenav-cart-total">
+					<span class="sitenav-cart-total-title">Tổng tiền</span>
+					<span class="sitenav-cart-total-value">0 VND</span>
+				</div>
+			</div>
+			<div class="sitenav-cart-foot">
+				<a href="/checkout">THANH TOÁN</a>
+			</div>
+		</div>
+	</div>
+	<div class="sitenav-cart-ovl"></div>
+</div>
+			
+			<script src="//hstatic.net/0/0/global/haravan_common.js" type="text/javascript"></script>
+<script src="//hstatic.net/0/0/global/customer_area.js" type="text/javascript"></script>
+<script src="//theme.hstatic.net/1000314103/1000689304/14/plugins.js?v=237" type="text/javascript"></script>
+<script src="//theme.hstatic.net/1000314103/1000689304/14/scripts.js?v=237" type="text/javascript"></script>
+			
+
+
+
+			
+		</div><div class="mm-wrapper__blocker mm-slideout"><a href="#site-wrapper"><span class="mm-sronly">Close menu</span></a></div>
+		
+
+		<!-- Load Facebook SDK for JavaScript -->
+		<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div><div class="fb-customerchat fb_invisible_flow fb_iframe_widget" attribution="setup_tool" page_id="435481623288005" theme_color="#464646" logged_in_greeting="Nếu chị cần bất cứ thông tin gì, ELPIS luôn sẵn sàng hỗ trợ chị." logged_out_greeting="Nếu chị cần bất cứ thông tin gì, ELPIS luôn sẵn sàng hỗ trợ chị." fb-xfbml-state="parsed" fb-iframe-plugin-query="app_id=&amp;attribution=setup_tool&amp;container_width=0&amp;current_url=https%3A%2F%2Felpisclothing.vn%2Faccount&amp;local_state=%7B%22v%22%3A0%2C%22path%22%3A2%2C%22chatState%22%3A1%2C%22visibility%22%3A%22hidden%22%2C%22showUpgradePrompt%22%3A%22not_shown%22%7D&amp;locale=vi_VN&amp;log_id=10021a9e-6ee6-41fa-a853-315e203bc70a&amp;logged_in_greeting=N%E1%BA%BFu%20ch%E1%BB%8B%20c%E1%BA%A7n%20b%E1%BA%A5t%20c%E1%BB%A9%20th%C3%B4ng%20tin%20g%C3%AC%2C%20ELPIS%20lu%C3%B4n%20s%E1%BA%B5n%20s%C3%A0ng%20h%E1%BB%97%20tr%E1%BB%A3%20ch%E1%BB%8B.&amp;logged_out_greeting=N%E1%BA%BFu%20ch%E1%BB%8B%20c%E1%BA%A7n%20b%E1%BA%A5t%20c%E1%BB%A9%20th%C3%B4ng%20tin%20g%C3%AC%2C%20ELPIS%20lu%C3%B4n%20s%E1%BA%B5n%20s%C3%A0ng%20h%E1%BB%97%20tr%E1%BB%A3%20ch%E1%BB%8B.&amp;page_id=435481623288005&amp;request_time=1634399578967&amp;sdk=joey&amp;theme_color=%23464646"><span style="vertical-align: top; width: 0px; height: 0px; overflow: hidden;"><iframe name="f2c2c69dd42b3a8" width="1000px" height="1000px" data-testid="fb:customerchat Facebook Social Plugin" title="" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v4.0/plugins/customerchat.php?app_id=&amp;attribution=setup_tool&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df179035d34269%26domain%3Delpisclothing.vn%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Felpisclothing.vn%252Ff1f7717560fe858%26relation%3Dparent.parent&amp;container_width=0&amp;current_url=https%3A%2F%2Felpisclothing.vn%2Faccount&amp;local_state=%7B%22v%22%3A0%2C%22path%22%3A2%2C%22chatState%22%3A1%2C%22visibility%22%3A%22hidden%22%2C%22showUpgradePrompt%22%3A%22not_shown%22%7D&amp;locale=vi_VN&amp;log_id=10021a9e-6ee6-41fa-a853-315e203bc70a&amp;logged_in_greeting=N%E1%BA%BFu%20ch%E1%BB%8B%20c%E1%BA%A7n%20b%E1%BA%A5t%20c%E1%BB%A9%20th%C3%B4ng%20tin%20g%C3%AC%2C%20ELPIS%20lu%C3%B4n%20s%E1%BA%B5n%20s%C3%A0ng%20h%E1%BB%97%20tr%E1%BB%A3%20ch%E1%BB%8B.&amp;logged_out_greeting=N%E1%BA%BFu%20ch%E1%BB%8B%20c%E1%BA%A7n%20b%E1%BA%A5t%20c%E1%BB%A9%20th%C3%B4ng%20tin%20g%C3%AC%2C%20ELPIS%20lu%C3%B4n%20s%E1%BA%B5n%20s%C3%A0ng%20h%E1%BB%97%20tr%E1%BB%A3%20ch%E1%BB%8B.&amp;page_id=435481623288005&amp;request_time=1634399578967&amp;sdk=joey&amp;theme_color=%23464646" style="border: none; visibility: hidden;"></iframe></span></div></div>
+		<script>
+			window.fbAsyncInit = function() {
+				FB.init({
+					xfbml            : true,
+					version          : 'v4.0'
+				});
+			};
+
+			(function(d, s, id) {
+				var js, fjs = d.getElementsByTagName(s)[0];
+				if (d.getElementById(id)) return;
+				js = d.createElement(s); js.id = id;
+				js.src = 'https://connect.facebook.net/vi_VN/sdk/xfbml.customerchat.js';
+				fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+
+		<!-- Your customer chat code -->
+		
+		<script>
+$("html").bind('contextmenu', function(e) {
+			return false;
+		});
+		$(document).keydown(function(event){
+			if(event.keyCode==123){
+				return false;
+			}
+			else if(event.ctrlKey && event.shiftKey && event.keyCode==73){        
+				return false;  //Prevent from ctrl+shift+i
+			}
+		});
+
+		</script>
+		<style>
+			html{
+			overflow-x: auto;
+			-moz-user-select: none;  
+			-webkit-user-select: none;  
+			-ms-user-select: none;  
+			-o-user-select: none;  
+			user-select: none;
+			}
+
+
+		</style>
+	
+
+
+<div><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe title="reCAPTCHA" src="https://www.google.com/recaptcha/api2/anchor?ar=1&amp;k=6LdD18MUAAAAAHqKl3Avv8W-tREL6LangePxQLM-&amp;co=aHR0cHM6Ly9lbHBpc2Nsb3RoaW5nLnZuOjQ0Mw..&amp;hl=en&amp;v=qljbK_DTcvY1PzbR7IG69z1r&amp;size=invisible&amp;cb=3gksa2xah4qb" width="256" height="60" role="presentation" name="a-3ptwttr8294b" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response-100000" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe style="display: none;"></iframe></div></body><iframe id="__JSBridgeIframe_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult__" style="display: none;"></iframe><style type="text/css">#hrv-loyalty{
+                position: fixed;
+                bottom: 1.5em;
+                left: 2.5em;
+                z-index: 999999123;
+            }
+            @media only screen and (max-width: 767px){
+                #hrv-loyalty{
+                    bottom: 1.5em;
+                    left: 0.5em;
+                }
+            }</style><hrv-loyalty id="hrv-loyalty"></hrv-loyalty></html>
